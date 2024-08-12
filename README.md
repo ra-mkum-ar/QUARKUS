@@ -59,3 +59,8 @@ Quarkus offers a modern and efficient approach to Java development, tailored for
 ![image](https://github.com/user-attachments/assets/b73abd93-6554-4d26-bdd3-cef1fcf397da)
 
 
+# API-Design: Design-First vs. Code-First
+
+![image](https://github.com/user-attachments/assets/84a122ca-4496-4ad6-9946-18d00ad1ec18)
+
+
