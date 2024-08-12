@@ -27,23 +27,30 @@ Unified Configuration 🗂️: One file for managing all settings across environ
 Java Version:
 
 Java 11 or 17 ☕: Needs one of these Java versions installed.
-Build Tools:
+
+# Build Tools:
 
 Maven or Gradle 🛠️: Use Maven or Gradle for building your Quarkus project.
+
 GraalVM (Optional but Recommended):
 
 Native Compilation 🔍: For best performance and native images, GraalVM is recommended.
-Development Environment:
+
+# Development Environment:
 
 IDE Support 💻: IntelliJ IDEA, Eclipse, or VS Code can enhance productivity.
-Containerization Tools (For Cloud Deployment):
+
+# Containerization Tools (For Cloud Deployment):
 
 Docker 🐳: Required for building and managing container images.
+
 Kubernetes ☸️: Useful for deploying in Kubernetes environments.
-Database and External Services:
+
+# Database and External Services:
 
 Data Sources 💾: Make sure you have the necessary drivers and configurations for databases.
-Networking and Security:
+
+# Networking and Security:
 
 Networking Knowledge 🌐: Important for configuring and deploying applications.
 Security Practices 🔒: Essential for protecting your applications.
