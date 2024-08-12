@@ -1,24 +1,5 @@
 # QUARKUS
 
-DATA MODEL
+![image](https://github.com/user-attachments/assets/b73abd93-6554-4d26-bdd3-cef1fcf397da)
 
-classDiagram
-    class Category {
-        - name: string
-        - description: string
-    }
-    
-    class Article {
-        - name: string
-        - price: BigDecimal
-        - description: string
-        - picture: string
-    }
-    
-    class Table {
-        - name: string
-        - seatCount: int
-        - active: boolean
-    }
-    Article "*" --> "1" Category
 
